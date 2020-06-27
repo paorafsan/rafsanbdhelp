@@ -1,0 +1,274 @@
+body{
+    background: #d3d1d5;
+    border-top: 29px solid #9494fc;
+    margin: 0;
+}
+.wraper{
+    width:960px;
+    margin:0 auto;
+    overflow:hidden;
+    height: 10000px;
+}
+.banner{
+    background:url(img/banner.png) no-repeat;
+	width:960px;
+	height:971px;
+    margin-bottom: 72px;
+}
+.welcome{
+    color: #aeb0fe;
+    font: bold italic 71px "Arial";
+    margin:0 auto;
+    padding-top: 170px;
+    padding-left: 170px;
+    width: 548px;
+}
+.to{
+  color: #aeb0fe;
+  font: 70px "Arial";
+  margin:0 auto;
+  padding-top: 42px;
+  padding-left: 425px;
+}
+.rbh{
+  color: #aeb0fe;
+  font: 48px "Detente";
+  padding-left: 300px;
+  padding-top: 94px;
+  width: 498px;
+}
+.logo{
+  margin: 0 auto;
+  padding-left: 221px;
+  padding-top: 120px;
+}
+.boder{
+    background:url(img/boder.png) no-repeat;
+    height: 48px;
+    width: 960px;
+    display: inline-block;
+}
+ul{
+    padding-top: 2px;
+    display: inline-block;
+    margin: 0 auto;
+}
+li{
+    display: inline-block;
+    color: royalblue;
+    font: bold 20px "arial";
+    overflow: hidden;
+    margin-bottom: 9px;
+    margin-left: 20px;
+    
+}
+li a{
+   color: royalblue;
+    text-decoration: none;
+}
+li a:hover{
+    color: red;
+}
+.about{
+    color: royalblue;
+    font: bold 80px "arial";
+    float: right;
+    margin-top: 44px;
+}
+.about_boder{
+    border-bottom: 25px solid #9494fc;
+    width: 100px;
+    padding-right: 300px;
+    margin-left: 600px;
+    margin-top: 150px;
+}
+.boder_l{
+    background: url(img/boder_l.png) no-repeat;
+    height: 200px;
+    width: 39px;
+    float: right;
+    padding-right: 600px;
+    margin-top: 70px;
+    margin-left:0 auto;
+    margin-right: 0 auto;
+}
+h2{
+    display: inline-block;
+    width: 600px;
+    font: bold 25px "arial";
+    margin: 0 auto;
+    padding-left: 25px;
+    color: #140583;
+}
+h3{
+    display: inline-block;
+    width: 600px;
+    font: bold 35px "arial";
+    margin: 0 auto;
+    padding-left: 50px;
+    color: blue
+}
+.banner2{
+    background: url(img/banner2.jpg) no-repeat;
+    height: 185px;
+    margin-top: 300px;
+}
+h5{
+    font: bold 36px "arial";
+    overflow: hidden;
+    width: 559px;
+    margin-left: 210px;
+    color: #140583;
+    padding-top: 9px;
+    font-display: optional;
+}
+.arro{
+    height: 35px;
+    width: 37px;
+    overflow: hidden;
+    padding-left: 480px;
+    
+}
+.gtf{
+    font: bold 35px "arial";
+    overflow: hidden;
+    margin-left: 300px;
+    margin-top: 30px;
+    color: #140583;
+}
+.clackb{
+    background: url(img/ckb.png) no-repeat;
+    height: 76px;
+    width: 188px;
+    margin-left: 420px;
+    margin-top: 20px;
+    
+}
+h4{
+    font: bold 27px"arial";
+    overflow: hidden;
+    padding-top: 23px;
+    padding-left: 5px;
+    text-decoration: none;
+    
+}
+h4 a{
+    text-decoration: none;
+}
+h4 a:hover{
+    color: red;
+}
+.od{
+    background: url(img/od.png) no-repeat;
+    height: 118px;
+}
+h1{
+    font: bold 50px "arial";
+    padding-top:  30px;
+    color: #140583;
+}
+.sur{
+    
+    font: bold 50px "arial";
+    margin-top: 20px;
+    text-decoration: underline;
+     color: #140583;
+}
+.smanu{
+    font: bold 30px "arial";
+    color: royalblue
+    
+}
+.boder5{
+    background: url(img/od.png) no-repeat;
+    height: 80px;
+    width: 350px;
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+h7{
+    font: bold 60px "Arial";
+    color: #140583;
+    margin-top: 30px;
+    
+}
+h8{
+    font: bold 40px "arial";
+   
+}
+h8 a{
+     text-decoration: none;
+    color: blue;
+}
+h8 a:hover{
+    color: red;
+     text-decoration: none;
+}
+.free_logo{
+    background: url(img/free_logo.png) no-repeat;
+    height: 118px;
+    margin-top: 50px;
+}
+.futter{
+    background: url(img/futter.jpg) no-repeat;
+    height: 396px;
+    margin-top: 30px;
+    
+}
+h9{
+    color: royalblue;
+    font: bold 30px "arial";
+    float: left;
+    margin-top: 50px;
+}
+h10{
+  color: red;
+  font: bold 30px "arial";
+  float: right;
+  margin-top: 50px;
+}
+h11{
+  color: royalblue;
+  font: bold 20px "arial";
+  margin-top:0px;
+  margin: 15px;
+}
+h11 a{
+    text-decoration: none;
+    color: red;
+    margin: 15px;
+}
+h11 a:hover{
+    color: blue;
+    margin: 15px;
+}
+.welcome:hover{
+    color: blue;
+}
+.to:hover{
+    color: blue;
+}
+.rbh:hover{
+    color: blue;
+}
+.arro:hover{
+    color: red;
+}
+.logo_link{
+    padding-top: 170px;
+    padding-left: 430px;
+    overflow: hidden;
+}
+.logo_link a{
+    margin: 10px;
+}
+
+
+
+
+
+
+
+
+
+
